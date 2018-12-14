@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Coleta de Pedidos</string>
+    <string name="site.coletadepedidos.redirect">http://coletadepedidos.grupopresentedeanjo.com.br</string>
+    <string name="site.coletadepedidos.direct">https://goo.gl/forms/iIFjX9YgBgwX7pCZ2</string>
+</resources>
